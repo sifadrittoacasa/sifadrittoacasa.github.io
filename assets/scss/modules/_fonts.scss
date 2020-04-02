@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Kiona-Italic";
+  src: url("assets/fonts/Kiona-Itallic.woff2") format("woff2"),
+    url("assets/fonts/Kiona-Itallic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Kiona-Normal";
+  src: url("assets/fonts/Kiona-Regular.woff2") format("woff2"),
+    url("assets/fonts/Kiona-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
